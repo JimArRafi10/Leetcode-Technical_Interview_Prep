@@ -1,5 +1,6 @@
 # Leetcode-Technical_Interview_Prep
-I solved leetcode problems pattern wise. There are 18 patterns in leetcode. 
+![leetcode-grinding-guide](https://github.com/JimArRafi10/Leetcode-Technical_Interview_Prep/assets/70357675/c1bf99d8-aebb-4f5d-a5d7-079d79cc82f3)
+I solved leetcode problems patternwise. There are 18 patterns in leetcode. 
 Here is all the pattern -
   * Array & Hashing
   * Two Pointers
